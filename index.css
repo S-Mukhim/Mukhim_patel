@@ -1,0 +1,174 @@
+.shoes_head {
+    margin-top: 24px;
+    font-size: 24px;
+    color: #1f1f1f;
+    font: 400 28px Open Sans,sans-serif;
+    max-width: 1440px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    letter-spacing: .02em;
+}
+.shoes_img {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 430px;
+
+}
+.shoes_category1 {
+    margin-top: 80px;
+    list-style: none;
+
+}
+.shoes_category1:hover{
+    color: cornflowerblue;
+}
+.shoes_category2 {
+    float: right;
+    margin-top: -16px;
+}
+.shoes_category2 {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+.shoes_category2:hover{
+    text-decoration: underline;
+}
+.shoes_category3 {
+    margin-right: 20px;
+    margin-left: 15px;
+}
+.shoes_category5 {
+    margin-right: 10px;
+    margin-left: 15px;
+}
+hr {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.shoes_row1 {
+    margin-left: 55px;
+    margin-right: 55px;
+    height: 250px;
+    margin-top: 25px;
+    display: flex;
+}
+.col {
+    justify-content: space-between;
+    height: 100%;
+    width: 18%;
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(248, 247, 247);
+}
+.col6 {
+    margin-top: 40px;
+    margin-left: 35px;
+    height: 150px;
+    width: 150px;
+}
+.shoes_bar {
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+.shoes_bar:hover {
+    text-decoration: underline;
+    color: rgb(70, 70, 147);
+}
+.shoes_bar1 {
+    display: flex;
+    margin-left: 20px;
+    list-style: none;
+    margin-top: -1px;
+
+}
+.shoes_bar2 {
+    display: flex;
+    margin-left: 110px;
+    list-style: none;
+    margin-top: -1px;
+
+}
+.shoes_bar3 {
+    display: flex;
+    margin-left: 150px;
+    list-style: none;
+    margin-top: -1px;
+
+}
+.shoes_bar4 {
+    display: flex;
+    margin-left: 160px;
+    list-style: none;
+    margin-top: -1px;
+
+}
+.shoes_bar5 {
+    display: flex;
+    margin-left: 210px;
+    list-style: none;
+    margin-top: -1px;
+
+}
+.shoes_bar6 {
+    display: flex;
+    margin-left: 190px;
+    list-style: none;
+    margin-top: -1px;
+
+}
+.shoes_row2 {
+    height: 700px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 35px;
+
+}
+.shoes_row3 {
+    height: 450px;
+    margin-top: 55px;
+    margin-left: 65px;
+    margin-right: 65px;
+    display: flex;
+}
+.shoescol {
+    height: 100%;
+    width: 30%;
+    margin-left: 35px;
+
+}
+.shoescol1 {
+    height: 450px;
+    width: 410px;
+}
+.shoescol>h3 {
+    margin-left: 40px;
+    color: rgb(74, 71, 77);
+    text-align: center;
+    position: relative;
+}
+.shoes_last {
+    margin-top: 95px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 1450px;
+    height: 200px;
+
+}
+.text {
+    margin-left: 150px;
+}
+.shoes_p {
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: .02em;
+    cursor: pointer;
+}
+.shoes_p:hover{
+     color: rgb(181, 181, 249);
+}
