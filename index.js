@@ -1,0 +1,1 @@
+console.log("Hello bro you have some price when you get some more point other than")
